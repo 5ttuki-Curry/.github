@@ -19,6 +19,7 @@
   5. 리뷰어가 확인하지 않은 PR을 PR을 올린 본인이 Merge하지 않기
 
 ## Commit Convention
+```
 [Feature]: 새로운 기능 구현
 [Design]: 레이아웃 조정
 [Fix]: 버그, 오류 해결, 코드 수정
@@ -28,6 +29,7 @@
 [Merge]: 머지
 방식 : [Prefix] #이슈번호 - 내용작성
 예시 : [Setting] #1 - 프로젝트 폴더링
+```
 
 ## Coding Convention
   1. 네이밍 규칙:
